@@ -1,5 +1,7 @@
 # jShare - 文件共享应用
 
+*[English](README.md) | 简体中文*
+
 一个使用 Vue.js、Node.js 和 Express 构建的现代文件共享应用。具有实时文件共享、管理面板和用户管理功能。
 
 ## 功能特点
