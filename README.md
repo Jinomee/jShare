@@ -1,5 +1,7 @@
 # jShare - File Sharing Application
 
+*English | [简体中文](README.zh-CN.md)*
+
 A modern file sharing application built with Vue.js, Node.js, and Express. Features include real-time file sharing, admin panel, and user management.
 
 ## Features
